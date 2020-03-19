@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+ 
+   
+}
+header{
+    background-image: url(images(1).jpg);
+    height:15vh;
+    background-size:cover;
+    background-color: darkcyan;
+    background position:center;
+}
+ul{
+    float: right;
+    margin-top: 25px;
+    
+        
+        
+}
+li{
+    text-decoration: none;
+    display: inline-block;
+        
+}
+ul li a{
+    text-decoration: none;
+    padding:5px 20px;
+    color: black;
+    border;2px green;
+    
+}
+ul li a:hover{
+   background-color: white;
+    color:blanchedalmond;
+    
+}
+logo img{
+    float: left;
+    height:100vh;
+    width: 100vh
+}
+        
+    
+    .jimmy{
+    
+    background-color: azure;
+    background-size: cover;
+    height: 25%;
+    width:100%;
+        
+    
+}
+H1{
+    font-size: 24;
+    
+}
+h2{
+    font-family: monospace;
+    font-size: 24;
+    margin-top: 20px;
+    float: none;
+    margin-right: 50px;
+    
+}
+ul1 li{
+    display: inline-block;
+     text-decoration: none;
+    padding:5px 20px;
+    color: black;
+    border;2px green;
+    
+    
+}
+ul1 li a:hover{
+    background-color: white;
+    color:blanchedalmond;
+}
+.massege{
+    background-color: darksalmon;
+    height: 30%;
+    width: 100%;
+    
+        
+
+}
+director{
+    
+    
+        
+        
+        
+        
+        
+    
+}
+footer H1{
+    text-decoration: none;
+    padding:5px 20px;
+    color: blue;
+    border;2px green;
+}
+    
+   bottom {
+    background-color: darkorange;
+    height: 25%;
+    width: 100%;
+    
+}
+
+    
+        
+}
+        
